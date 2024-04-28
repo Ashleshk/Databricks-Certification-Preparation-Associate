@@ -1,16 +1,10 @@
-# Databricks-Certification-Preparation-Associate
-Notes for Databricks Certification Preparation Associate
+# Practice Exam 2
 
-## Topics
-1. **Certification Overview: Databricks Certified Data Engineer Associate V2 Exam**
-2. **Fundamentals of the Databricks Lakehouse Platform (V2)**
-3. **Data Engineering with Databricks V2**
-
-## Practice
-- **Practice Exam 1**
-- **Practice Exam 2**
--  **Practice Exam Udemy**
-
-## Revision
-1. **Udemy Practice Exam 1**
-2. **Udemy Practice Exam 2**
+- Revise- fundamentals of a lakehouse platform
+- Read about INSERT INTO, COPY, —
+- How to tune delta tables with small files.  TUNING
+- what is VACCUM?
+- Create table that manages data and metadata both - delta lake table
+- VIEW vs TEMP VIEW vs global temp view
+- spark streaming trigger once
+- DELTA LIVE TABLE CONSTRAINT WHICH ONE IS DEFAILT
