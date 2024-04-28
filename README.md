@@ -8,9 +8,9 @@ Notes for Databricks Certification Preparation Associate
 
 ## Practice
 - [**Practice Exam 1**](https://github.com/Ashleshk/Databricks-Certification-Preparation-Associate/blob/main/Practice%20Exam%201.md)
-- [**Practice Exam 2**]()
--  [**Practice Exam Udemy**]()
+- [**Practice Exam 2**](https://github.com/Ashleshk/Databricks-Certification-Preparation-Associate/blob/main/Practice%20Exam%202.md)
+-  [**Practice Exam Udemy**](https://github.com/Ashleshk/Databricks-Certification-Preparation-Associate/blob/main/Practice%20Exam%20Udemy.md)
 
 ## Revision
-1. [**Udemy Practice Exam 1**]()
-2. [**Udemy Practice Exam 2**]()
+1. [**Udemy Practice Exam 1**](https://github.com/Ashleshk/Databricks-Certification-Preparation-Associate/blob/main/Udemy%20Practice%20Exam%201.md)
+2. [**Udemy Practice Exam 2**](https://github.com/Ashleshk/Databricks-Certification-Preparation-Associate/blob/main/Udemy%20Practice%20Exam%202.md)
